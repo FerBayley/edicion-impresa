@@ -51,7 +51,7 @@
 					<article>
 						<p>
 							<q>
-								Hola, vienvenidos a la descarga en formato digital del Periódico convivir Ahora usted 
+								Bienvenidos a la descarga en formato digital del Periódico convivir Ahora usted 
 								puede leer la edición del mes en cualquier momento, en todas partes disponible 
 								en su casa o en el trabajo para descargar en formato PDF o leerlo on line. Las 
 								presentes son la misma edición que el periódico impreso en Buenos Aires, Argentina.
