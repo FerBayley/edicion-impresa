@@ -7,6 +7,6 @@
 						<h2><?php the_title();?></h2>
 					<p><?php the_content();?></p>
 				<?php endwhile; else: ?>
-			<p>No se encontraron tapas en esta sección.</p>
+			<!-- LEYENDA -->
 		<?php endif; ?>
 </section> <!-- End of Emboltorio -->
