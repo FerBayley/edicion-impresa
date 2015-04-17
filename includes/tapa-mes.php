@@ -32,7 +32,7 @@
 
 					<p><?php the_content();?></p>
 						<?php endwhile; else: ?>
-							<p>No se encontraron productos cargados en esta sección.</p>
+							<p>No se encontraron tapas en esta sección.</p>
 								<?php endif; ?>
 			</article>
 				</div> <!-- End of col_tapa2 -->

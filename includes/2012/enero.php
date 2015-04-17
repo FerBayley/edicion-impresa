@@ -1,5 +1,5 @@
 <section class="Emboltorio">
-	<?php query_posts("category_name=col-enero"); ?>
+	<?php query_posts("category_name=2012col-enero"); ?>
 		<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 			<div class="Thumb">
 				<?php if ( has_post_thumbnail() ) { the_post_thumbnail( 'tapas_thumbs' ); } ?>

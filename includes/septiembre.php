@@ -8,6 +8,6 @@
 
 				<p><?php the_content();?></p>
 			<?php endwhile; else: ?>
-		<p>No se encontraron tapas cargadas en esta sección.</p>
+		<p>No se encontraron tapas en esta sección.</p>
 	<?php endif; ?>
 </section> <!-- End of Emboltorio -->
